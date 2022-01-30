@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![image](https://user-images.githubusercontent.com/33844650/151701797-0f6feed2-0634-47b3-b0b2-273b9ca2b5ee.png)
+
 
 First step
 ### `npm install`
